@@ -1,3 +1,4 @@
+![Theme](https://github.com/sahilkumardhala/3D-hover-effect/blob/main/Theme.jpg)
 # Magic-Candel ![](https://img.icons8.com/?size=96&id=VQRXVT8t0vHT&format=png)
 # 📌[Live Views🪄🔮](https://sahilkumardhala.github.io/Magic-Candel/)
 
