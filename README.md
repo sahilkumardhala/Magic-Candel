@@ -21,7 +21,7 @@ The project displays an animated scene of candles using CSS animations.
 
 ## Credits
 
-- Author: [Your Name](https://github.com/sahilkumardhala)
+- Author: [SAHIL KUMAR DHALA ](https://github.com/sahilkumardhala)
 - GitHub Repository: [Magic Candles on GitHub](https://github.com/sahilkumardhala/magic-candles)
 
 ## Contact
