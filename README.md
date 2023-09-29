@@ -1,5 +1,5 @@
-# Magic-Candel
-# 📌[Live Views](https://sahilkumardhala.github.io/Magic-Candel/)
+# Magic-Candel ![](https://img.icons8.com/?size=96&id=VQRXVT8t0vHT&format=png)
+# 📌[Live Views🪄🔮](https://sahilkumardhala.github.io/Magic-Candel/)
 
 The "Magic Candles" project utilizes CSS animations defined with `@keyframes` to create an enchanting visual display. The keyframes govern the movement and appearance of elements like candles, fire, and sparkles, enhancing the overall aesthetic. By carefully orchestrating transitions and transformations, the candles come to life with flickering flames, while the surrounding sparkles add a magical touch. The use of `@keyframes` allows for precise control over the animation, resulting in a captivating and delightful experience for anyone interacting with the web page.
 
